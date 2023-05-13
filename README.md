@@ -4,7 +4,7 @@
 hi, im Chalal Mohamed 🔮.
 
 @@advanced programming student.@@
-+ living in tel alger,algeria .
++ living in alger,algeria .
 - 18 years old
 ! USTHB Computer Science Student
 ```
